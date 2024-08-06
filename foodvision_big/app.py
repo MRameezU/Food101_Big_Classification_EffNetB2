@@ -49,7 +49,7 @@ def predict(img)->Tuple[Dict,float]:
 # Create title, description and article
 title ="FoodVision BIG"
 description="An [EfficientNetB2 feature extractor](https://pytorch.org/vision/stable/models/generated/torchvision.models.efficientnet_b2.html#torchvision.models.efficientnet_b2) computer vision model to classify images [101 classes of food from the Food101 dataset](https://github.com/mrdbourke/pytorch-deep-learning/blob/main/extras/food101_class_names.txt)."
-article="Created at [https://colab.research.google.com/github/MRameezU/PyTorch-for-Deep-Learning-Bootcamp/blob/main/09_PyTorch_model_deployment_video.ipynb]"
+article="Created at [https://github.com/MRameezU/Food101_Big_Classification_EffNetB2/blob/e9c502b4f9e5a0f68e102184d18a6b934334b17b/food101-big-classification-effnetb2.ipynb]"
 
 # create example list
 example_list=[["examples/" + example] for example in os.listdir("examples")]
