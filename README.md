@@ -1,6 +1,3 @@
-Got it! Here's the updated description with that information included:
-
----
 
 ## Food101_Big_Classification_EffNetB2
 
