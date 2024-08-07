@@ -15,7 +15,7 @@ This repository contains a feature extraction classification model using Efficie
 ```
 Food101_Big_Classification_EffNetB2.ipyb  # Contains model training and Gradio app creation
 demos/
-└── foodvision_big/
+└── Food101_Big_Classification/
     ├── effnetb2_feature_extractor_food101_20_percent.pth
     ├── app.py
     ├── class_names.txt
